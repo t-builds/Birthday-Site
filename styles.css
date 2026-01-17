@@ -5,7 +5,7 @@ body {
     font-style: normal;
     text-align: center;
     color: #ffffff;
-    background-color: #a2d2ff;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
 }
 
 h1, h2, h3, h4, p {
@@ -85,3 +85,4 @@ h1, h2, h3, h4, p {
 #gift-img-cheers:hover {
     background-image: url("/images/cheers.webp");
 }
+
